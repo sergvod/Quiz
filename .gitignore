@@ -17,6 +17,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Modulos de node
+node_modules/
+
 # =========================
 # Operating System Files
 # =========================
